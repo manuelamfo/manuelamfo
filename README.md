@@ -1,6 +1,4 @@
-
-
-## [EN] Hi there 👋
+# Hi there 👋
 
 <!--
 **manuelamfo/manuelamfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
