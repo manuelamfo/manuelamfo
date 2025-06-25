@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Manuela
 I'm an undergraduate in Information Systems and a research student at UFMG :)
 
-- 🔭 I’m currently working on a continual learning research project
+- 🔭 I’m currently working on a continual learning research project 💻✨
 - 🌱 I’m currently learning C++, Python and HTML/CSS/JavaScript
 - 💬 Ask me about graphic design and we can talk for hours
 - 📫 How to reach me: manuelamfo@gmail.com
