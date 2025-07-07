@@ -6,7 +6,7 @@ I'm an undergraduate in Information Systems and a research student at UFMG :)
 - 💬 Ask me about graphic design and we can talk for hours
 - 📫 How to reach me: manuelamfo@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelamfo)](https://github.com/manuelamfo/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelamfo&size_weight=0.5&count_weight=0.5)
   
 <!--
 **manuelamfo/manuelamfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
