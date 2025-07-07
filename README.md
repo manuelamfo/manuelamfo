@@ -5,6 +5,8 @@ I'm an undergraduate in Information Systems and a research student at UFMG :)
 - 🌱 I’m currently learning C++, Python and HTML/CSS/JavaScript
 - 💬 Ask me about graphic design and we can talk for hours
 - 📫 How to reach me: manuelamfo@gmail.com
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelamfo)](https://github.com/manuelamfo/github-readme-stats)
   
 <!--
 **manuelamfo/manuelamfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
