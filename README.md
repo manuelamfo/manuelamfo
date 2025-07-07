@@ -7,7 +7,7 @@ I'm an undergraduate in Information Systems and a research student at UFMG :)
 - 📫 How to reach me: manuelamfo@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manuelamfo&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelamfo&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
   
 <!--
 **manuelamfo/manuelamfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
