@@ -6,11 +6,12 @@ I'm an undergraduate in Information Systems and a research student at UFMG :)
 - 💬 Ask me about graphic design and we can talk for hours
 - 📫 How to reach me: manuelamfo@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manuelamfo&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelamfo&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manuelamfo&show_icons=true&theme=tokyonight) 
+
   
 <!--
 **manuelamfo/manuelamfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelamfo&layout=compact)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
