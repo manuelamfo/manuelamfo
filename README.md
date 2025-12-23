@@ -12,7 +12,7 @@ I'm an undergraduate in Information Systems at UFMG :) I'm always eager to learn
 --------------------------------------------------------------
 ![](https://github-readme-stats.vercel.app/api?username=manuelamfo&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true) ![](https://nirzak-streak-stats.vercel.app/?user=manuelamfo&theme=shadow_blue&hide_border=true)
 
-![snake gif](https://github.com/manuelamfo/manuelamfo/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/manuelamfo/manuelamfo/blob/output/github-contribution-grid-snake2.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ------------------------------------------------------
