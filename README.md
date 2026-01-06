@@ -9,9 +9,9 @@ I'm an undergraduate in Information Systems at UFMG :) I'm always eager to learn
 --------------------------------------------------------------
 ![](https://github-readme-stats.vercel.app/api?username=manuelamfo&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true) ![](https://nirzak-streak-stats.vercel.app/?user=manuelamfo&theme=shadow_blue&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelamfo&layout=compact)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelamfo&layout=compact)-->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manuelamfo&show_icons=true&theme=tokyonight) 
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manuelamfo&show_icons=true&theme=tokyonight)-->
 
 ![Snake animation](https://github.com/manuelamfo/manuelamfo/blob/output/github-contribution-grid-snake2.svg)
 
