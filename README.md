@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Manuela
 
-I'm an undergraduate in Information Systems at UFMG :) I'm always eager to learn new things, develop my creativity and improve my skills. My special interests include Human-Computer Interaction, Responsible AI, Data Science, and Software Engeeniring, with a focus on UX/UI Design 💫
+I'm an undergraduate in Information Systems at UFMG :) I'm always eager to learn new things, develop my creativity and improve my skills. My special interests include Human-Computer Interaction, Responsible AI, Data Science, and Software Engineering, with a focus on UX/UI Design 💫
 
 📫 You can reach me at: manuelamfo@gmail.com
 
