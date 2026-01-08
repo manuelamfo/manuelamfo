@@ -2,7 +2,7 @@
 
 I'm an undergraduate in Information Systems at UFMG :) I'm always eager to learn new things, develop my creativity and improve my skills. My special interests include Human-Computer Interaction, Responsible AI, Data Science, and Software Engineering, with a focus on UX/UI Design.
   
-## 📫 Connect with Me
+## 📫 Connect with me
 
 <div align="center">
   
@@ -37,11 +37,11 @@ I'm an undergraduate in Information Systems at UFMG :) I'm always eager to learn
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-</div>
+##
 
 ![](https://github-readme-stats.vercel.app/api?username=manuelamfo&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true) ![](https://nirzak-streak-stats.vercel.app/?user=manuelamfo&theme=shadow_blue&hide_border=true)
 
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelamfo&layout=compact)-->
+</div>
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manuelamfo&show_icons=true&theme=tokyonight)-->
 
