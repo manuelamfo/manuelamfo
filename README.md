@@ -39,11 +39,13 @@ I'm an undergraduate in Information Systems at UFMG, currently working as a Data
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ##
-
-![](https://github-readme-stats.vercel.app/api?username=manuelamfo&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true) ![](https://nirzak-streak-stats.vercel.app/?user=manuelamfo&theme=shadow_blue&hide_border=true)
+![manuelamfo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=manuelamfo&theme=nightowl&hide_border=true)
+![manuelamfo's Stats](https://github-readme-stats.vercel.app/api?username=manuelamfo&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
+<!-- cobalt também é um bom tema -->
 
 </div>
 
+<!--![](https://github-readme-stats.vercel.app/api?username=manuelamfo&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true) ![](https://nirzak-streak-stats.vercel.app/?user=manuelamfo&theme=shadow_blue&hide_border=true)-->
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manuelamfo&show_icons=true&theme=tokyonight)-->
 
 <!--![Snake animation](https://github.com/manuelamfo/manuelamfo/blob/output/github-contribution-grid-snake2.svg)-->
